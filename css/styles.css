@@ -18,3 +18,13 @@
     background-color: teal;
   }
 }
+
+.active, p:hover {
+  background-color: #666;
+  color: white;
+}
+
+.show-border {
+  border: 2px black solid;
+  background-color: teal;
+}
